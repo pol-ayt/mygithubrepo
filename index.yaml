@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  clarus-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-22T02:25:38.257241988Z"
+    description: A Helm chart for Kubernetes
+    digest: ba78285ae18ac2a259b20f95024468f2dc3d6b97a260184d04ee5282f8448a84
+    name: clarus-chart
+    type: application
+    urls:
+    - clarus-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-22T02:25:38.256617344Z"
